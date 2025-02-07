@@ -1,2 +1,5 @@
 .env
 .idea/
+docker/
+storage/
+docker-compose.yml
